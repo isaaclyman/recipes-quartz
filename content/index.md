@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Welcome.
 ---
 
 This is repository of recipes by Isaac, Porter, and Anders. Not all of them are original.
