@@ -1,3 +1,4 @@
+import { Element } from "hast";
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -26,12 +27,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.Explorer({
+      title: 'Recipes',
+      folderDefaultState: 'collapsed',
+      mapFn: (node) => {
+        node.children = node.children.flatMap(child => child.children);
+        node.displayName = node.name + ' — ' + node.file?.frontmatter?.description;
+      }
+    })
+    // Component.Backlinks(),
   ],
 }
 

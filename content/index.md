@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is repository of recipes by Isaac, Porter, and Anders. Not all of them are original.
