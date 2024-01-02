@@ -36,7 +36,8 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: 'collapsed',
       mapFn: (node) => {
         node.children = node.children.flatMap(child => child.children);
-      }
+      },
+      filterFn: (node) => node.name !== 'tags' && node.name !== 'templates',
     })
     // Component.Backlinks(),
   ],

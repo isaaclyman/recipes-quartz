@@ -1,7 +1,7 @@
 ---
 title: 2-Day Cookies (Toffee and Chocolate Chip)
 date: 2020-01-25T18:34:46.068Z
-description: 'The Apocrypha references this exact recipe I''m pretty sure. Endorsed by Paul. '
+description: The Apocrypha references this exact recipe I'm pretty sure. Endorsed by Paul.
 image: 20191227_231927.jpg
 ---
 
