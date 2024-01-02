@@ -6,9 +6,8 @@ description: >-
   if you will, but it's as good as the real thing. This is the result of
   researching and tinkering for many months. Decoded and written by Porter
   Lyman.
+image: img_20230917_172539476.jpg
 ---
-
-![img_20230917_172539476.jpg](img_20230917_172539476.jpg)
 
 This is for the UglyBop with heat level 4.
 

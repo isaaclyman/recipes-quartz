@@ -1,3 +1,42 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+#explorer-content {
+  .file-name {
+    line-height: 1em;
+  }
+
+  .file-description {
+    font-size: 0.8em;
+    line-height: 1em;
+    margin-top: 4px;
+  }
+
+  ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+}
+
+.article-description {
+  font-size: 1.2em;
+  font-weight: 200;
+  vertical-align: middle;
+
+  &::before {
+    content: '>';
+    font-weight: 900;
+    line-height: 1em;
+    margin-right: 6px;
+  }
+}
+
+.article-header-wrap {
+  margin: 24px 0;
+  text-align: center;
+}
+
+img.article-header {
+  margin: 0 auto;
+  max-width: 75%;
+}

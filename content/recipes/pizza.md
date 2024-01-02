@@ -2,9 +2,8 @@
 title: Pizza
 date: 2019-12-03T11:31:55.307Z
 description: 'Mainly dough, plus some things'
+image: homemade-pizza.jpg
 ---
-
-![homemade-pizza.jpg](homemade-pizza.jpg)
 
 _Mainly from Anders's_ [_Pizza Dough Calculator_](https://pizza-dough-calculator.herokuapp.com/calculator?a=thicknessFactor&tf=0.08&dw=0&b=4&shp=round&s=14&w=0&l=0&h=62&yt=ady&y=0.4&st=regular&slt=1.5&br=2&p=none&pa=0&pwa=0&pya=0&pfa=0&pst=0&dh=0&ph=0&stf=0&dd=0&ss=0&sa=0&pwt=0&plt=0&c_g=1&c_kg=0&c_ml=0&c_o=1&c_p=0&c_t=0&c_tb=0&c_c=0&c_d=1&c_pr=2&um=false&o25=1.5&o32=1)_._ 
 

@@ -2,9 +2,8 @@
 title: Chile
 date: 2020-01-08T20:21:50.672Z
 description: '"Taqueria-style salsa," as the gringos call it'
+image: chile-2.jpg
 ---
-
-![chile-2.jpg](chile-2.jpg)
 
 _This recipe can safely be played with. Change the quantity of any ingredient, use whatever you've got on hand, change the method of preparation. It's hard to screw up._
 

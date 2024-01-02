@@ -2,9 +2,8 @@
 title: Instant Pot Meatballs
 date: 2019-12-03T10:10:55.307Z
 description: Meatballs made in a pressure cooker, cooked in sauce
+image: Instant-Pot-Meatballs.jpg
 ---
-
-![Instant-Pot-Meatballs.jpg](Instant-Pot-Meatballs.jpg)
 
 _Adapted from_ [_favfamilyrecipes.com_](https://www.favfamilyrecipes.com/instant-pot-meatballs/)_._ This recipe can be also be adapted to work in non Instant Pot pressure cookers, most likely. 
 

@@ -2,9 +2,8 @@
 title: Homemade Tortillas
 date: 2020-01-25T19:00:00.000Z
 description: 'Just as good as Cafe Rio''s tortillas. No press required. '
+image: 20200112_121333.jpg
 ---
-
-![20200112_121333.jpg](20200112_121333.jpg)
 
 Pulled from www.tasteofhome.com.
 

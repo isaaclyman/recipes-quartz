@@ -2,9 +2,8 @@
 title: Apple Rankings
 date: 2019-12-09T22:38:52.647Z
 description: '(Isaac) X-axis: crunch. Y-axis: flavor.'
+image: apples-scatter.png
 ---
-
-![apples-scatter.png](apples-scatter.png)
 
 
 The above apples were ranked subjectively and unscientifically by one person over the course of several weeks.

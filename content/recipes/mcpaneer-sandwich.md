@@ -4,9 +4,8 @@ date: 2023-01-15T00:32:45.659Z
 description: >-
   Chicken gets all over everything and has salmonella. Save yourself a headache
   and fry up some paneer instead.
+image: 4011e326-1840-4c61-80ca-5417f5e775a6_1_105_c.jpeg
 ---
-
-![4011e326-1840-4c61-80ca-5417f5e775a6_1_105_c.jpeg](4011e326-1840-4c61-80ca-5417f5e775a6_1_105_c.jpeg)
 
 McDonald's India has an extensive vegetarian menu (because India is a vegetarian paradise) and one of the top items is the Paneer McSpicy. This is a great idea for a homemade fried-thing sandwich because you can make paneer in 45 minutes or so and you don't have to Clorox your kitchen after you handle it. So no, I'm not a scrupulous vegetarian at this point in my life, the McPaneer is just really darned convenient versus all the alternatives.
 

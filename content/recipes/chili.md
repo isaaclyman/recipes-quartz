@@ -2,9 +2,8 @@
 title: Chili
 date: 2019-12-06T20:36:26.296Z
 description: 'Best chili I''ve had. There''s probably better, but I''ve not tasted it yet.'
+image: 201001-ultimate-chili-kenji-lopez-alt.jpg
 ---
-
-![201001-ultimate-chili-kenji-lopez-alt.jpg](201001-ultimate-chili-kenji-lopez-alt.jpg)
 
 Adapted from [here](https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html)
 

@@ -2,9 +2,8 @@
 title: Spanish Rice - Instant Pot
 date: 2020-09-01T01:38:59.785Z
 description: It's pretty good
+image: img_20200819_172529.jpg
 ---
-
-![img_20200819_172529.jpg](img_20200819_172529.jpg)
 
 ## Ingredients
 

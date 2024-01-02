@@ -5,9 +5,8 @@ description: |-
   For when you're hungry but haven't done the dishes. 
 
   Also it's freakin' delicious. 
+image: 2020_08_31_19_51_48_one_pot_pasta_basics_with_babish.png
 ---
-
-![2020_08_31_19_51_48_one_pot_pasta_basics_with_babish.png](2020_08_31_19_51_48_one_pot_pasta_basics_with_babish.png)
 
 ## Ingredients
 

@@ -2,9 +2,8 @@
 title: Bagels
 date: 2019-12-02T17:10:55.307Z
 description: How to make and eat a bagel
+image: bagels.jpg
 ---
-
-![bagels.jpg](bagels.jpg)
 
 _Adapted from_ [_sophisticatedgourmet.com_](http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/?epik=dj0yJnU9N1lfSmR3emlmcUdjOVBoR3M3ZldfWjhPUlF6b0Y4Ulcmbj10ZlZvelBBSVF4TC1iWFQtNm1JVElRJm09MyZ0PUFBQUFBRjJoU0xz)_._
 

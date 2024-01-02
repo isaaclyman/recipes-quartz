@@ -2,9 +2,8 @@
 title: Instant Pot Enchilada Pasta
 date: 2019-12-03T14:24:55.307Z
 description: Easy Enchilada Pasta with beef and cheese, done in pressure cooker.
+image: Instant_Pot_Enchilada_Pasta.jpg
 ---
-
-![Instant_Pot_Enchilada_Pasta.jpg](Instant_Pot_Enchilada_Pasta.jpg)
 
 _Adapted from_ [_sidetrackedsarah.com_](https://www.sidetrackedsarah.com/instant-pot-enchilada-pasta/)_._ This recipe can probably work in any pressure cooker. YMMV
 

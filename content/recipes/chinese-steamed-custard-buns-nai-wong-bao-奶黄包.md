@@ -2,9 +2,8 @@
 title: Chinese Steamed Custard Buns (Nai Wong Bao 奶黄包)
 date: 2021-06-04T21:11:24.985Z
 description: 'Soft and supple, somehow cathartic'
+image: steam-bun.jpg
 ---
-
-![steam-bun.jpg](steam-bun.jpg)
 
 ## **Ingredients**
 

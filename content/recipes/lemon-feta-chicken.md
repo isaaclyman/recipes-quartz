@@ -2,9 +2,8 @@
 title: Lemon Feta Chicken
 date: 2021-03-22T20:17:45.907Z
 description: A zesty Mediterranean-flavored chicken rollup
+image: img_20210320_174348.jpg
 ---
-
-![img_20210320_174348.jpg](img_20210320_174348.jpg)
 
 * 2 large chicken breasts, butterflied through and flattened
 * A few tablespoons of butter

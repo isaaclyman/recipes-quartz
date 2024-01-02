@@ -7,9 +7,8 @@ description: >-
 
 
   Or just make it for yourself. That's fine too.
+image: 20200119_165301.jpg
 ---
-
-![20200119_165301.jpg](20200119_165301.jpg)
 
 Taken from natashaskitchen.com. This recipe makes 55-60 pierogi, based on how thinly you roll. Which isn't very many if you and two or three other people are eating them. They're small and go fast.
 

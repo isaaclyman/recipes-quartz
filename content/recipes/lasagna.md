@@ -2,9 +2,8 @@
 title: Lasagna
 date: 2019-11-08T01:33:08.199Z
 description: It's Lasagna
+image: lasagna.jpg
 ---
-
-![lasagna.jpg](lasagna.jpg)
 
 # Ingredients
 

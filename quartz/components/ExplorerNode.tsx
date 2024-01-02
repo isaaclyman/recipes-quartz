@@ -45,6 +45,7 @@ export class FileNode {
   children: Array<FileNode>
   name: string // this is the slug segment
   displayName: string
+  description: string
   file: QuartzPluginData | null
   depth: number
 
@@ -52,6 +53,7 @@ export class FileNode {
     this.children = []
     this.name = slugSegment
     this.displayName = displayName ?? file?.frontmatter?.title ?? slugSegment
+    this.description = file?.frontmatter?.description
     this.file = file ? clone(file) : null
     this.depth = depth ?? 0
   }
@@ -179,7 +181,8 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
         // Single file node
         <li key={node.file.slug}>
           <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
-            {node.displayName}
+            <div class="file-name">{node.displayName}</div>
+            {node.description && <div class="file-description">&gt; {node.description}</div>}
           </a>
         </li>
       ) : (

@@ -36,7 +36,6 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: 'collapsed',
       mapFn: (node) => {
         node.children = node.children.flatMap(child => child.children);
-        node.displayName = node.name + ' — ' + node.file?.frontmatter?.description;
       }
     })
     // Component.Backlinks(),

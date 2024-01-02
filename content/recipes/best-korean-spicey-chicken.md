@@ -2,9 +2,8 @@
 title: Best Korean Spicy Chicken
 date: 2021-06-04T20:01:18.036Z
 description: 'It keeps you coming back. '
+image: img_20210411_181834.jpg
 ---
-
-![img_20210411_181834.jpg](img_20210411_181834.jpg)
 
 **Pre-Sauce Ingredients** 
 

@@ -2,9 +2,8 @@
 title: Forlorade Agg (Lost Eggs)
 date: 2019-10-25T18:43:47.457Z
 description: 'A crispy, gooey Danish breakfast'
+image: forlorade.jpeg
 ---
-
-![forlorade.jpeg](forlorade.jpeg)
 
 All measurements are estimates. Use your best judgment.
 
