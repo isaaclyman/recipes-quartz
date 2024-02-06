@@ -153,7 +153,7 @@ Refer to my layers guide at the top. Rice and meat should be served hot. Enjoy!
 
 ## **Glazed Spicy Chicken** 
 
-For an amazing twist, and a bit more spice, try glazing your chicken using [this recipe](https://recipes.isaaclyman.com/post/best-koren-spicey-chicken/). I kid you not, it's worth every extra second of preparation. Just throw the sauce ingredients together, heat it up in a wok, and toss with the _cooked_ chicken. Serve as normal. 
+For an amazing twist, and a bit more spice, try glazing your chicken using [this recipe](https://recipes.isaaclyman.com/recipes/best-korean-spicey-chicken/). I kid you not, it's worth every extra second of preparation. Just throw the sauce ingredients together, heat it up in a wok, and toss with the _cooked_ chicken. Serve as normal. 
 
 ![Bowl of CupBop where the chicken is glazed with spicy red sauce](/recipes/img/img_20230917_173040728.jpg "Same recipe, but with added spicy glaze on the chicken")
 

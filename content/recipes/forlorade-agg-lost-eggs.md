@@ -7,7 +7,7 @@ image: forlorade.jpeg
 
 All measurements are estimates. Use your best judgment.
 
-* 3 cups [creamed spinach](https://recipes.isaaclyman.com/post/creamed-spinach/)
+* 3 cups [creamed spinach](https://recipes.isaaclyman.com/recipes/creamed-spinach/)
 * 3-6 eggs
 * 3/4 cup julienned smoked ham
 * 1/2 cup shredded parmesan cheese
