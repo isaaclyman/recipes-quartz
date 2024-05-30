@@ -9,7 +9,7 @@ image: japchae2.jpg
 
 I've found that even the pickiest eaters love this, my kids included. Looks are deceiving, it's way tastier than it looks.
 
-Double the recipe for groups or family. 
+Double the recipe for small groups or family. 
 
 # Ingredients
 
@@ -18,7 +18,7 @@ Double the recipe for groups or family.
 * 50g carrot
 * 50g red/yellow bell peppers
 * 50g shiitake mushrooms (zucchini is a good substitute)
-* 50g garlic chives
+* 50g garlic chives (if you can't get any, do green onions instead and add them as a garnish at the end)
 * 120g Dangmyeon ("dong-myun") noodles (AKA Korean sweet potato starch noodles, glass noodles, Japchae noodles, 당면)
 * 1/2 tbsp dark soy sauce ("optional")
 * 1.5 tbsp toasted sesame oil
@@ -40,11 +40,11 @@ Double the recipe for groups or family.
 
 1. In a wok (or pot), add Dangmyeon noodles with 6 cups of water. Add 1/2 tbsp dark soy sauce (if using). Bring it to a boil over medium heat.
 
-2. Once it starts to boil, set a timer for 6 minutes. Stir it occasionally. Drain the noodles and put them in a bowl. Coat them with sesame oil (1.5 tbsp). Set aside.
+2. Once it starts to boil, set a timer for 6 minutes. Stir it occasionally. Drain the noodles and put them in a bowl. Coat them with the sesame oil (1.5 tbsp). Set aside.
 
 #### Make sauce
 
-In a small container, mix together the sugar, soy sauce, oyster sauce, and MSG (don't be a coward).
+In a small container, mix together the sugar, soy sauce, oyster sauce, and MSG.
 
 #### Stir-fry all the things
 

@@ -14,7 +14,7 @@ Noodles with meat and black bean sauce.
 *    1.5 large yellow onions
 *    2 green cabbage leaves
 *    1 bunch green onions, about 3.5 oz (100g)
-*    1/2 tsp (2g) grated ginger
+*    1/2 tsp (2g) grated ginger (pre-grated or crushed is fine)
 *    3 tbsp neutral-tasting oil (such as grape seed, canola, vegetable oil, etc.)
 *    7 oz (200g) ground pork
 *    3 tbsp black bean paste (chunjang, 춘장)
@@ -22,7 +22,7 @@ Noodles with meat and black bean sauce.
 *    1.5 tbsp sugar
 *    1 tbsp oyster sauce
 *    1 tbsp chicken bouillon powder
-*    1/4 cup (60ml) water
+*    1/4 cup water
 *    Small pinch of MSG ("optional")
 *    2 servings jungwha myeon (중화면) (or kalguksu, udon noodles, etc.. If you can't find those, just use any noodles you have)
 
@@ -43,8 +43,11 @@ Noodles with meat and black bean sauce.
 
 1. Cut the onions into nice, big chunks. Cut the cabbage into bite-sized pieces. Thinly slice the green onions. Cut the cucumber into matchsticks.
 
-2. Grate a small knob of ginger. About 1/2 teaspoon would be perfect.
-MAKE SAUCE & COOK NOODLES
+2. Grate a small knob of ginger. About 1/2 teaspoon would be perfect. 
+
+##### Make sauce and cook noodles
+
+Read completely before doing.
 
 1. In a wok (or pan), heat the oil (3 tbsp) over high heat. Once it gets nice and hot, add the ground pork. Break up the pork and saute for 1 to 2 minutes or until no longer pink. 
 
