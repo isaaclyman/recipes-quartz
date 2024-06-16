@@ -2,9 +2,4 @@
 
 Rebuilt recipes repository.
 
-## Preview
-
-```shell
-npm install
-npx quartz build --serve
-```
+To run locally: `npx quartz build --serve`
