@@ -5,16 +5,26 @@ description: A cheap, simple agua fresca. Good for weddings.
 image: horchata.jpeg
 ---
 
+- [Recommended tools](#recommended-tools)
 - [Calculating ingredients](#calculating-ingredients)
   - [For each gallon of concentrate](#for-each-gallon-of-concentrate)
   - [For each 4-5 gallons of prepared horchata](#for-each-4-5-gallons-of-prepared-horchata)
-- [Recommended tools](#recommended-tools)
 - [Preparation](#preparation)
   - [Day One](#day-one)
   - [Day Two](#day-two)
   - [Day Three (day of event)](#day-three-day-of-event)
 - [Test batch](#test-batch)
 - [Recipe notes](#recipe-notes)
+
+## Recommended tools
+
+- An empty gallon jug for each recipe of concentrate
+- Large funnel that fits the mouth of a gallon jug
+- 5-gallon or larger beverage dispenser
+- A long ladle or spoon for stirring the horchata in the dispenser
+- Three-quart or larger pitcher
+- Large mesh strainer that fits over the top of the pitcher
+- High-quality blender, like a Blendtec or Vitamix
 
 ## Calculating ingredients
 
@@ -39,16 +49,6 @@ If multiple drink options are available, five gallons of horchata is enough for 
 - 7.5 C. granulated sugar
 - 30 C. (just under two gallons) cold water
 - Ice
-
-## Recommended tools
-
-- An empty gallon jug for each recipe of concentrate
-- Large funnel that fits the mouth of a gallon jug
-- 5-gallon or larger beverage dispenser
-- A long ladle or spoon for stirring the horchata in the dispenser
-- Three-quart or larger pitcher
-- Large mesh strainer that fits over the top of the pitcher
-- High-quality blender, like a Blendtec or Vitamix
 
 ## Preparation
 
