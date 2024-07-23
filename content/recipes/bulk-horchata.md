@@ -2,7 +2,7 @@
 title: Bulk Horchata
 date: 2024-07-21T12:34:46.068Z
 description: A cheap, simple agua fresca. Good for weddings.
-image:
+image: horchata.jpeg
 ---
 
 - [Calculating ingredients](#calculating-ingredients)
@@ -19,6 +19,8 @@ image:
 ## Calculating ingredients
 
 **Each gallon** of concentrate will make **four to five gallons** of prepared horchata.
+
+If multiple drink options are available, five gallons of horchata is enough for 200+ guests.
 
 ### For each gallon of concentrate
 
