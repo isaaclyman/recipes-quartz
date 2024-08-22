@@ -16,14 +16,14 @@ My kids don't like spicy or strongly-flavored foods so I went off-script with th
 ## Stage 1: Paneer
 
 * 1/2 gallon (8 cups) whole milk, **not ultra-pasteurized**
-* 1/2 tsp citric acid
+* 1/2 tsp citric acid OR 2 T vinegar OR 2 T lemon juice
 
-1. Stir the citric acid into 1 cup cold water and set aside.
+1. Stir the citric acid (if using) into 1 cup cold water and set aside.
 2. In a pot or saucepan, slowly heat the milk on the stovetop to 190-200F. As it nears the target temperature, stir it and scrape the bottom occasionally to avoid scalding.
-3. Turn off the heat and add the citric acid solution while stirring very slowly and gently. The milk should start separating into white curds and watery yellow-green whey within seconds. Keep stirring until it's as separated as it's gonna get, about 1 minute. Put a lid on the pot and let it sit for 10 minutes.
-4. Meanwhile, place a large colander in the sink (or in a bowl if you want to save the whey). Double up a cheesecloth or muslin towel and place it over the colander. Prepare a medium bowl of cold water nearby.
+3. Turn off the heat and add the citric acid solution (or vinegar/lemon juice) while stirring very slowly and gently. The milk should start separating into white curds and watery yellow-green whey within seconds. Keep stirring until it's as separated as it's gonna get, about 1 minute. Put a lid on the pot and let it sit for 10 minutes.
+4. Meanwhile, place a large colander in the sink (or in a bowl if you want to save the whey). Plac a cheesecloth or muslin towel over the colander. Prepare a medium bowl of cold water nearby.
 5. Pour the separated milk into the cheesecloth'd colander. This will drain out the whey, leaving the curds. Take the four corners of the cheesecloth and twirl them together to form the curds into a ball. Dip the bundle in the cold water a few times to rinse some of the citric acid out. Then tie it by the corners to your faucet (or anywhere it can hang and drip). Let it hang out for 10 minutes.
-6. Untie the bundle and twist the top to force more water out of the curds. Place it in the squarest tupperware you've got with the cloth "tail" pointed to the side, place an equivalent tupperware on top, and weigh it all down with a cast iron skillet or whatever you've got that's heavy and will stay in place. Let it sit for 20 minutes, then carefully remove the cheese from the cloth and put it (covered or uncovered) in the fridge.
+6. Untie the bundle and twist the top to force more water out of the curds. Place it in the squarest tupperware you've got with the cloth "tail" pointed to the side, place an equivalent tupperware on top, and weigh it all down with a cast iron skillet or whatever you've got that's heavy and will stay in place. Alternatively, line a tofu press with a paper towel, add the curds to it, and put the lid on. Let it sit for 20 minutes, then carefully remove the cheese from the cloth and put it (covered or uncovered) in the fridge.
 7. The paneer will be ready to use after an hour or two. It should be firm and not fall apart.
 
 ## Stage 2: Sauce
@@ -41,9 +41,8 @@ Blend all ingredients with an immersion blender until completely smooth, then pu
 
 * 1/2 cup white flour
 * 1/2 tsp garlic salt
-* 1/2 tsp paprika
+* 1/2 tsp smoked paprika
 * 1/2 tsp dry mustard
-* 1/2 tsp dried thyme
 * A pinch of MSG (Accent)
 * Several grinds of black pepper
 
