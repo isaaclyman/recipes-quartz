@@ -1,7 +1,7 @@
 ---
 title: Jjajangmyeon (짜장면)
 date: 2024-05-28T21:11:24.985Z
-description: 'I think about this every day as though it was my own wife'
+description: 'I think about this every day'
 image: jjajangmyeon.jpg
 ---
 
