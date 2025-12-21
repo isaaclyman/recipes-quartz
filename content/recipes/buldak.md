@@ -1,7 +1,7 @@
 ---
 title: Buldak (불닥) and other noodles
 date: 2024-05-28T21:11:24.985Z
-description: "In Korea they eat this instead of doing crack"
+description: "Subjective ranking of Buldak flavors and other noodles."
 image: buldak.jpg
 ---
 
@@ -36,20 +36,19 @@ In order, the best first, are the Samyang Buldak Ramen flavors worth mentioning.
 
 1. Curry - This is good. But, it's only partially committed to the curry flavor so you may be disappointed. It's like the La Croix of Curry.
 
-##### The literal worst
-
-1. Corn
+1. Corn - This is a strange one. It's not bad because it has the Buldak base flavor, but the corn flavor leaves it feeling unfinished. It's less the flavor of canned corn and more the flavor of a corn tortilla, but it's not quite a taco either. This doesn't know what it's supposed to be and leaves the impression of being an experiment that didn't quite catch on. Again, it's not bad, but I would never buy it if given the choice.
 
 ##### Haven't tried
 
 1. Kimchi - People seem to like this. My palette is not yet attuned. Will report back later.
-2. All the other obscure ones
+1. All the other obscure ones
 
 ##### Good luck finding these
 
 1. Light - Low calorie, less spicy.
 1. 3x Spicy - Heaven have mercy upon your body.
 1. Topokki - Oh what I'd give to try this.
+1. Ice - Apparently this was a thing. Cook the noodles, then chill.
 
 There are many more, most discontinued and experimental, or not exported.
 
@@ -59,7 +58,7 @@ Three ways, in no particular order. Each delicious.
 
 - As instructed on the back of the package.
 - [With Creamed Tuna](https://aaronandclaire.com/korean-spicy-fire-noodles/)
-  - Basically just mayo with tuna, like you're making a tuna sandwich. Then add whatever you have: garlic or onion, salt, pepper, dark soy sauce, sririacha
+  - Basically just mayo with tuna, like you're making a tuna sandwich. Then add whatever you have: garlic or onion, salt, pepper, dark soy sauce, sriracha
   - Mix that all up, and plop it onto the prepared noodles (cooked and sauce mixed already) and then mix it in.
   - You can top with green onions and toasted sesame seeds.
 - Japanese Ramen style
@@ -80,3 +79,5 @@ Here are other noodles that range from "pretty good" to "that's about perfect".
 - Shin Toomba - This is Korea's take on Italian noodles. They did a good job, but have the same problem as Curry Buldak. They're not fully committed to the flavor. I'd recommend topping with some Parmesan and basil like it show on the packaging.
 
 - Shin Soon - This is a veggie noodle dish. Honestly, it's excellent. I'm happy to announce that you can go meat free for this meal and feel happy inside.
+
+- Cheesy Ramen - That's what it's called, and it's my kids favorite. It's like a standard ramen but without any heat and includes a cheese powder packet. It's actually quite good, I get a little jealous then they eat it. Would recommend as entry level, it's safe and delicious.
