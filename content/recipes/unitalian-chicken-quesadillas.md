@@ -17,7 +17,7 @@ image: ital_chicken.jpg
 - 1/2 cup white vinegar
 - 1/4 cup neutral oil, like canola (optional)
 - 1/2 teaspoon crushed red pepper flakes
-- 2 teaspoon black pepper
+- 2 teaspoons black pepper
 - 1 teaspoon garlic powder
 
 **Thickener**
