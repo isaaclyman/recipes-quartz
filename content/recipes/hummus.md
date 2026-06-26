@@ -7,6 +7,8 @@ description: 'Blender hummus in half an hour'
 > [!info] Okay, okay
 > The _fastest_ possible hummus, technically, would be to stick an immersion blender directly in a can of chickpeas. That wouldn't taste good, though. This recipe is great—much better than store-bought hummus—and still fast enough to fit in over your lunch break.
 
+Ingredients:
+
 * 1 can chickpeas
 * 1 tsp. baking soda
 * 1/4 C. sesame seeds
