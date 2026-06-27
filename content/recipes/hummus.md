@@ -1,6 +1,6 @@
 ---
 title: Fastest Possible Hummus
-date: 2019-10-25T18:51:57.262Z
+date: 2026-06-26T18:51:57.262Z
 description: 'Blender hummus in half an hour'
 ---
 
