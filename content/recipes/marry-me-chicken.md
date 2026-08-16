@@ -5,7 +5,7 @@ description: 'A nuclear blast of natural glutamates'
 ---
 _Adapted from [Delish](https://www.delish.com/cooking/recipe-ideas/a46330/skillet-sicilian-chicken-recipe/)._
 
-Marry Me Chicken is one of my favorite foods but raw chicken is annoying to work with, so here's a 20-minute version with all the flavor and none of the pain.
+Marry Me Chicken is one of my favorite foods but raw chicken is annoying to work with, so here's a 20-minute version with all the flavor and none of the pain, served over rice instead of meat.
 
 * 1/2 T. butter or olive oil
 * 2+ cloves garlic, minced
